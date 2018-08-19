@@ -1,0 +1,29 @@
+{
+  "name": "rubik-solver-api",
+  "version": "1.0.0",
+  "description": "Rubik solver API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunorib62/rubik-solver-api.git"
+  },
+  "keywords": [
+    "API",
+    "rubik",
+    "solver",
+    "API"
+  ],
+  "author": "Bruno Pires",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunorib62/rubik-solver-api/issues"
+  },
+  "homepage": "https://github.com/brunorib62/rubik-solver-api#readme",
+  "dependencies": {
+    "cubejs": "^1.1.0",
+    "express": "^4.16.3"
+  }
+}
